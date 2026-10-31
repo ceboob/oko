@@ -35,7 +35,7 @@ html {
 }
 
 body {
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Open Sans', sans-serif;
 /*     font-size:1.4em; */
 	font-weight: 400;
 }
@@ -1243,7 +1243,7 @@ ul.doctor-list li h6 {
 	letter-spacing: 0.5px;
 	text-transform: uppercase;
 	color: white;
-	font-family: Raleway;
+	font-family: 'Open Sans', sans-serif;
 	margin: 0px;
 }
 
@@ -1308,7 +1308,7 @@ ul.doctor-list li h6 {
 	padding: 10px 30px;
 	color: #000;
 	text-transform: uppercase;
-	font-family: Raleway;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	font-weight: 500;
 }
@@ -2056,7 +2056,7 @@ a:hover,a:active,a:focus,a:visited {
 
 .overlay h4 span {
 	display: block;
-	font-family: Raleway;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
 	font-weight: 600;
 	line-height: 28px;
@@ -2096,7 +2096,7 @@ a:hover,a:active,a:focus,a:visited {
 	display: table;
 	margin: 0 auto;
 	padding: 6px 20px;
-	font-family: Raleway;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .overlay a:hover {
@@ -2485,7 +2485,7 @@ a:hover,a:active,a:focus,a:visited {
 
 .page-head h4 {
 	margin: 0px;
-	font-family: Raleway;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 30px;
 	color: #000;
 }
@@ -2886,7 +2886,7 @@ a:hover,a:active,a:focus,a:visited {
 article .bold {
 	font-size: 16px !important;
 	color: #292929 !important;
-	font-family: Raleway;
+	font-family: 'Open Sans', sans-serif;
 	text-transform: uppercase;
 	font-weight: 600;
 }
